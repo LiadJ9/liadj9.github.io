@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/LiadJ9/robotfriendos.git/static/css/main.3490b5e8.css",
-    "main.js": "/LiadJ9/robotfriendos.git/static/js/main.d618cc32.js",
-    "static/js/787.0edbcda9.chunk.js": "/LiadJ9/robotfriendos.git/static/js/787.0edbcda9.chunk.js",
-    "static/media/SEGA.woff": "/LiadJ9/robotfriendos.git/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
-    "index.html": "/LiadJ9/robotfriendos.git/index.html",
-    "main.3490b5e8.css.map": "/LiadJ9/robotfriendos.git/static/css/main.3490b5e8.css.map",
-    "main.d618cc32.js.map": "/LiadJ9/robotfriendos.git/static/js/main.d618cc32.js.map",
-    "787.0edbcda9.chunk.js.map": "/LiadJ9/robotfriendos.git/static/js/787.0edbcda9.chunk.js.map"
+    "main.css": "/robotfriendos/static/css/main.329c4040.css",
+    "main.js": "/robotfriendos/static/js/main.09d8b264.js",
+    "static/js/787.0edbcda9.chunk.js": "/robotfriendos/static/js/787.0edbcda9.chunk.js",
+    "static/media/SEGA.woff": "/robotfriendos/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/robotfriendos/index.html",
+    "main.329c4040.css.map": "/robotfriendos/static/css/main.329c4040.css.map",
+    "main.09d8b264.js.map": "/robotfriendos/static/js/main.09d8b264.js.map",
+    "787.0edbcda9.chunk.js.map": "/robotfriendos/static/js/787.0edbcda9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3490b5e8.css",
-    "static/js/main.d618cc32.js"
+    "static/css/main.329c4040.css",
+    "static/js/main.09d8b264.js"
   ]
 }
