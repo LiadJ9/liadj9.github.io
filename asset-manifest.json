@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/LiadJ9/liadj9.github.io/static/css/main.c78ff9ae.css",
+    "main.js": "/LiadJ9/liadj9.github.io/static/js/main.2cfbec23.js",
+    "static/js/787.0edbcda9.chunk.js": "/LiadJ9/liadj9.github.io/static/js/787.0edbcda9.chunk.js",
+    "static/media/SEGA.woff": "/LiadJ9/liadj9.github.io/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/LiadJ9/liadj9.github.io/index.html",
+    "main.c78ff9ae.css.map": "/LiadJ9/liadj9.github.io/static/css/main.c78ff9ae.css.map",
+    "main.2cfbec23.js.map": "/LiadJ9/liadj9.github.io/static/js/main.2cfbec23.js.map",
+    "787.0edbcda9.chunk.js.map": "/LiadJ9/liadj9.github.io/static/js/787.0edbcda9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c78ff9ae.css",
+    "static/js/main.2cfbec23.js"
+  ]
+}
